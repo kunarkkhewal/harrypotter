@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+.Gryffindor{
+  color:white;
+  height:50px;
+  background-color: rgb(152,38,44);
+}
+
+.Ravenclaw{ 
+  color:white;
+  height:50px;
+  background-color: rgb(2,73,115);
+}
+
+.Slytherin{ 
+  color:white;
+  height:50px;
+  background-color: rgb(30,73,16);
+}
+
+.Hufflepuff{ 
+  color:white;
+  height:50px;
+  background-color: rgb(247,180,85);
+}
